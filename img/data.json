@@ -1,4 +1,4 @@
-{
+[{
   "dir": "Fumbleep2Jacket",
   "name": "FumbleEp2",
   "info": "自分が主催するイベントのコンセプトアルバム",
@@ -23,4 +23,4 @@
   "name": "tamagocchi",
   "info": "色合いのサンプル",
   "tool": ["Photoshop", "Blender"]
-}
+}]
