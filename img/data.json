@@ -1,25 +1,25 @@
 [{
-  "dir": "Fumbleep2Jacket",
+  "dir": "https://raw.github.com/Tsuruno/PhotoMaterial/master/img/Fumbleep2Jacket.png",
   "name": "FumbleEp2",
   "info": "自分が主催するイベントのコンセプトアルバム",
   "tool": ["Photoshop", "Blender"]
 }, {
-  "dir": "Hardest3flyer",
+  "dir": "https://raw.github.com/Tsuruno/PhotoMaterial/master/img/Hardest3flyer.png",
   "name": "Hardest3Flyer",
   "info": "友人の主催するイベントのフライヤー",
   "tool": ["Photoshop"]
 }, {
-  "dir": "Spritbrain",
+  "dir": "https://raw.github.com/Tsuruno/PhotoMaterial/master/img/Spritbrain.png",
   "name": "Spritbrain",
   "info": "イベントコンセプトのサンプル",
   "tool": ["Photoshop"]
 }, {
-  "dir": "star",
+  "dir": "https://raw.github.com/Tsuruno/PhotoMaterial/master/img/star.png",
   "name": "star",
   "info": "色合いのサンプル",
   "tool": ["Photoshop", "Blender"]
 }, {
-  "dir": "tamago",
+  "dir": "https://raw.github.com/Tsuruno/PhotoMaterial/master/img/tamago.png",
   "name": "tamagocchi",
   "info": "色合いのサンプル",
   "tool": ["Photoshop", "Blender"]
