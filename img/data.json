@@ -1,34 +1,26 @@
 {
-  "num": 5,
-  "obj": [{
-      "dir": "Fumbleep2Jacket",
-      "name": "FumbleEp2",
-      "info": "自分が主催するイベントのコンセプトアルバム",
-      "tool": ["Photoshop", "Blender"]
-    },
-    {
-      "dir": "Hardest3flyer",
-      "name": "Hardest3Flyer",
-      "info": "友人の主催するイベントのフライヤー",
-      "tool": ["Photoshop"]
-    },
-    {
-      "dir": "Spritbrain",
-      "name": "Spritbrain",
-      "info": "イベントコンセプトのサンプル",
-      "tool": ["Photoshop"]
-    },
-    {
-      "dir": "star",
-      "name": "star",
-      "info": "色合いのサンプル",
-      "tool": ["Photoshop", "Blender"]
-    },
-    {
-      "dir": "tamago",
-      "name": "tamagocchi",
-      "info": "色合いのサンプル",
-      "tool": ["Photoshop", "Blender"]
-    }
-  ]
+  "dir": "Fumbleep2Jacket",
+  "name": "FumbleEp2",
+  "info": "自分が主催するイベントのコンセプトアルバム",
+  "tool": ["Photoshop", "Blender"]
+}, {
+  "dir": "Hardest3flyer",
+  "name": "Hardest3Flyer",
+  "info": "友人の主催するイベントのフライヤー",
+  "tool": ["Photoshop"]
+}, {
+  "dir": "Spritbrain",
+  "name": "Spritbrain",
+  "info": "イベントコンセプトのサンプル",
+  "tool": ["Photoshop"]
+}, {
+  "dir": "star",
+  "name": "star",
+  "info": "色合いのサンプル",
+  "tool": ["Photoshop", "Blender"]
+}, {
+  "dir": "tamago",
+  "name": "tamagocchi",
+  "info": "色合いのサンプル",
+  "tool": ["Photoshop", "Blender"]
 }
